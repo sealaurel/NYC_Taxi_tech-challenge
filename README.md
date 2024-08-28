@@ -1,2 +1,1 @@
-# Spekit-tech-challenge
-This is a challenge for Spekit 
+# NYC_COVID effect on taxi ride
